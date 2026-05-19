@@ -29,3 +29,7 @@ This task helped me understand how recommendation systems work in real world app
 Tools used in this task are Python, Pandas, NumPy, Scikit-learn, Cosine Similarity, and Google Colab.
 
 The output of this task is a Jupyter Notebook showing the rating matrix, similarity scores, predicted ratings, book recommendations, and RMSE evaluation.
+
+#output
+
+<img width="398" height="744" alt="Image" src="https://github.com/user-attachments/assets/c7ebad0e-66c0-4e9e-a801-d79c6c30bdd5" />
